@@ -1,0 +1,100 @@
+
+
+nav ul li {
+   margin-right: 30px;
+   font-size: 20px;
+}
+.fluids h2{
+  padding-top: 30px;
+}
+.img-fluid{
+  height: 250px;
+  padding: 10px 77px;
+}
+.line{
+  background-color: red;
+  height: 4px;
+  margin: 18px auto 45px;
+  padding: 0;
+  width: 100px;
+}
+.flat{
+  font-family: Playfair Display, serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    padding-top: 50px
+}
+ul h4{
+  color: #e6e6e6;
+}
+ul li {
+ 
+  list-style: none;
+}
+ ul li a{
+  color: #e6e6e6;
+  font-size: 15px;
+ }
+.card {
+ box-shadow: #e6e6e6;
+ 
+  -webkit-box-shadow: -2px 0px 5px 7px rgba(168,159,168,1);
+  -moz-box-shadow: -2px 0px 5px 7px rgba(168,159,168,1);
+  box-shadow: -2px 0px 5px 7px rgba(168,159,168,1);
+/* animation-name: bounce;
+transform-origin: center bottom; */
+}
+.card-body{
+  text-align: center;
+}
+.card-body h5{
+  color: green;
+    font-size: 20px;
+    font-weight: 700;
+}
+.card-body h6{
+  font-size: 13px;
+}
+
+
+.footer{
+  padding-top: 50px;
+}
+.footer-logo{
+  color: white;
+  font-size: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ line-height: 15px; 
+  
+}
+.footer-data{
+  font-size: 18px;
+  font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer-data ul li{
+  list-style: none;
+  color: white;
+}
+
+.data{
+  display: flex;
+}
+.count{
+  border-radius: 50px;
+  text-align: center;
+  padding: 0px 5px;
+}
+.cartimg{
+  padding: 10px;
+}
+.shadowtext{
+  text-align: center;
+  margin-right: 100px;
+}
+ul{
+  padding-top: 5px;
+  margin-top: -12px;
+}
+
